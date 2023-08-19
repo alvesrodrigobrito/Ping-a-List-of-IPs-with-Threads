@@ -5,3 +5,6 @@ Exemplo conteúdo arquivo list.txt:
 172.0.0.1;localhost
 172.0.0.1;localhost
 ```
+```
+$ python3 ping_threading.py > saida.log
+```
