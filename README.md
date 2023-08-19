@@ -1,2 +1,7 @@
-# Script desenvolvido com a liguagem python que efetua ping em varios IPs de forma simultanea utilizando threading
-> O conteúdo do aquivo lista.txt contem ip, hostname separado por ponto e virgula. Exemplo: 172.0.0.1;localhost
+# Script desenvolvido com a linguagem python que efetua ping em vários IPs de forma simultânea utilizando threading
+> O conteúdo do arquivo list.txt contem ip, hostname separado por ponto e virgula.
+```
+Exemplo conteúdo aquivo list.txt:
+172.0.0.1;localhost
+172.0.0.1;localhost
+```
