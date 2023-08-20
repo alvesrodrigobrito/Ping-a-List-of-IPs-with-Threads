@@ -50,6 +50,7 @@ if __name__ == "__main__":
         lines = f.readlines()
      
 n = 6
+# divide a array em 6 partes
 splited = [lines[i::n] for i in range(n)]
 
 contador = 1
